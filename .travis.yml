@@ -7,4 +7,4 @@ before_script:
 script: npm run travis-test
 notifications:
   webhooks: 
-  - https://outlook.office365.com/webhook/6b82617d-03b3-4df3-9362-b142e28ea400@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/0a559945edae4e39adcbfff437af0569/?GroupOwner=638368b1-914a-4da3-aaba-989e89920f6a@72f988bf-86f1-41af-91ab-2d7cd011db47
+  - https://outlook.office365.com/webhook/b82617d-03b3-4df3-9362-b142e28ea400@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/0a559945edae4e39adcbfff437af0569/?GroupOwner=638368b1-914a-4da3-aaba-989e89920f6a@72f988bf-86f1-41af-91ab-2d7cd011db47
