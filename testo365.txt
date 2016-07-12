@@ -1,1 +1,2 @@
 created new file
+edit this file for testing of Circle CI on 12th july. 
