@@ -4,3 +4,4 @@ notify:
     # A list of hook hashes, containing the URL field
     - url: https://outlook.office365.com/webhook/6b82617d-03b3-4df3-9362-b142e28ea400@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/6ea1a1ea54c2418ebc42ab7ed7065dab/638368b1-914a-4da3-aaba-989e89920f6a
     - url: https://outlook.office365.com/webhook/6b82617d-03b3-4df3-9362-b142e28ea400@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/ec7cc2d9c4944c9a8cd2df086382e61e/638368b1-914a-4da3-aaba-989e89920f6a
+    - url: https://outlook.office365.com/webhook/8e0e0c00-ebdc-408f-b0b0-fd6dc7ed8186@24f52e49-736e-40b4-8879-cc9c12eceade/CircleCI/a4be360db1284d37b989eafc701543b6/71725bb9-0e53-452c-8baa-f5932eba4187
