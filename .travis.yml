@@ -9,4 +9,6 @@ notifications:
   webhooks: 
   - http://requestb.in/q01crfq0 
   - http://9a337dc7.ngrok.io/webhook/03a661e8-cd54-4dce-9c71-f085c7bb7f22@3ac6207b-ae9d-4f84-9993-7c6f3a292479/TravisCI/00deb565987141b8b00eb520421577b6/admin@tenant-EXHR-4840.COM/test/
+  - https://outlook.office365.com/webhook/18c287a5-7ce4-441f-b562-c0de07222993@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/3f90627e49a548e8b3ae5612ba85a4da/be57f81c-a29d-425b-b01b-6fc360ba2a6d
+  - http://requestb.in/1eedgfz1
   
